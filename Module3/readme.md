@@ -1,4 +1,4 @@
-### 🤖 Machine Learning Foundations & Evaluation (Module 3)
+### Machine Learning Foundations & Evaluation 
 *Focus: Building reliable models and measuring success with precision.*
 
 * **Diagnostic Modeling:** Created a classification pipeline for Breast Cancer detection, prioritizing high recall to minimize missed diagnoses.
